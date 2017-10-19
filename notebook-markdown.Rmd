@@ -171,3 +171,9 @@ gap_normal <- gap_normal %>%
 all.equal(gapminder, gap_normal)
 ```
 
+
+
+```{r}
+head(gap_normal)
+```
+
